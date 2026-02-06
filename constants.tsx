@@ -39,7 +39,7 @@ export const NAVIGATION = [
 export const CONTACT_INFO = {
   email: 'comercial@fsmodapet.com.br',
   phone: '(11) 3608-2640',
-  whatsapp: '(21) 96551-7467',
+  whatsapp: '55 (21) 96551-7467',
   address: 'R. São Francisco Xavier, 268 - Tijuca, Rio de Janeiro - RJ',
   store: 'https://loja.lilicao.com.br/'
 };
